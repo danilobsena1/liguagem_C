@@ -21,7 +21,7 @@ const int n = 10;
 int main(){
     
     float vetor[n];
-
+    
     for(int i = 0; i<n; i++){
         vetor[i] = i*(n-1);
     }
