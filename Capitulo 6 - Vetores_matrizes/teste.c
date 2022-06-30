@@ -1,12 +1,15 @@
 # include <stdio.h>
 
 int main(){
-    int vetor[10], j;
+    int j = 5;
+    int vetor[j];
 
-    for(j = 0; j<7;j++){
-        vetor[j]= 0;
+    for(j = 0; j<5;j++){
+        vetor[j]= j;
     }
-    vetor[j] = 101;
-    printf("%d\n",vetor[j]);
+
+    for(j = 0; j<5;j++){
+        printf("%d, ",vetor[j]);
+    }
     
 }
