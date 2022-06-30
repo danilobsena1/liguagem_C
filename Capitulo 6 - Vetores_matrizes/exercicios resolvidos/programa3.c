@@ -24,10 +24,10 @@ int main(){
         printf("\n");
     }
 
-    // printf("Quantos números quer apostar( 0-Sair\n");
-    // printf("Número: ");
-    // scanf("%d",&numero);
-
+    printf("Quantos números quer apostar( 0-Sair\n");
+    printf("Número: ");
+    scanf("%d",&numero);
+    
     
     return 0;
 }
