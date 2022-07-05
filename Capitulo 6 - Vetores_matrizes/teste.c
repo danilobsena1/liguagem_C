@@ -9,5 +9,5 @@ int main(){
     }
     printf("\n%d",vetor[j] = 101);
     
-    printf("Bom dia!!!");   
+    printf("Good Morning!");   
 }
