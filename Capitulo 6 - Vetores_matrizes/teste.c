@@ -8,8 +8,5 @@ int main(){
         printf("%d,",vetor[j]);
     }
     printf("\n%d",vetor[j] = 101);
-    while(1){
-    printf("Performing tests!");
-    printf("Performing tests!");
     }
 }
