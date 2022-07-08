@@ -9,4 +9,5 @@ int main(){
     }
     printf("\n%d",vetor[j] = 101);
     }
+printf("Sem commits hoje!!");
 }
